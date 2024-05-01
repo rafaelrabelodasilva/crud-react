@@ -9,7 +9,7 @@ export const SideBar = styled.div`
   grid-row-gap: 0px;
   min-height: 100vh;
   text-align: center;
-  background-color: #CBE4DE;
+  background-color: #77B0AA;
 `;
 
 export const SideBarTop = styled.div`

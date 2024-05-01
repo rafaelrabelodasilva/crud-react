@@ -15,14 +15,14 @@ export const Input = styled.input`
   outline: none;
   background: #FFFFFF;
   color: #000000;
-  border: 1px solid #C4D1EB;
+  border: 1px solid #0E8378;
   border-radius: 5px;
   box-shadow: 3px 3px 2px 0px #E2E2E2;
   transition: .3s ease;
 
   &:focus {
 	background: #F2F2F2;
-	border: 1px solid #5A7EC7;
+	border: 1px solid #0E8388;
 	border-radius: 10px;
 
   &::placeholder {

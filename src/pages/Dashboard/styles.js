@@ -23,4 +23,6 @@ export const InformacaoCard = styled.div`
     text-align: center;
     height: 60%;
     font-size: 40px;
+    color: white;
+    font-weight: 500;
 `;

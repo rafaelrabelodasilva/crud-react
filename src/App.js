@@ -21,11 +21,16 @@ const MenuComponent = styled.div`
   grid-template-rows: repeat(10, 1fr);
   grid-column-gap: 0px;
   grid-row-gap: 0px;
+  background-color: #77B0AA;
+  max-height: 100vh;
 `;
 
 const ConteudoComponent = styled.div`
   grid-area: 1 / 2 / 11 / 8; 
   padding: 10px;
+  border-radius: 10px;
+  background-color: #FAF9F6;
+  max-height: 100vh;
 `;
 
 function App() {
