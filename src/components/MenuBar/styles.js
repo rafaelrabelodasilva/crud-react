@@ -18,8 +18,7 @@ export const SideBarTop = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 100%;
-  height: 100%;
+  padding-top: 10px;
 `;
 
 export const SideBarMiddle = styled.div`
@@ -29,7 +28,6 @@ export const SideBarMiddle = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  color: black;
 
   ul > li {
     padding: 10px 8px;
@@ -49,4 +47,8 @@ export const SideBarBottom = styled.div`
   justify-content: center;
   width: 100%;
   height: 100%;
+
+  a {
+    color: black;
+  }
 `;
